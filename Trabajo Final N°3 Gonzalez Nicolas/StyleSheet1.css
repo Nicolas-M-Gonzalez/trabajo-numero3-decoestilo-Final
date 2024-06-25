@@ -1,0 +1,16 @@
+﻿body
+{
+    margin:0px;
+    
+  
+}
+
+.container{
+    height:100%;
+   margin:0px;
+   display:flex;
+    background-color:chocolate;
+    align-content:center;
+    justify-content:center;
+    
+}
